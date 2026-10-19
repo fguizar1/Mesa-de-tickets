@@ -193,6 +193,6 @@ tickets/
 - Guardar el token en una cookie `HttpOnly`.
 - Documentación con Swagger.
 
-## Licencia
+## Correo
 
-Uso educativo.
+fguizar@mikiosko.com.mx
